@@ -1,6 +1,24 @@
 # Movies App
+👉 This is a simple app build it with flutter.
 
-A new Flutter project.
+Features: 📘
+ - Get movies from themoviedb.org
+ - Search movies
+ - See details movies and casting 
+
+Tools: 💻
+ - [Flutter](https://flutter.dev/)
+ - [Animation Hero Widget](https://flutter.dev/docs/development/ui/animations/hero-animations) 
+ - [Flutter Swipper](https://pub.dev/packages/flutter_swiper)
+ - [VSCode](https://code.visualstudio.com/)
+
+**Screenshots**
+Home
+![home](home.png)
+Details
+![details](details.png)
+Search
+![search](search.png)
 
 ## Getting Started
 
