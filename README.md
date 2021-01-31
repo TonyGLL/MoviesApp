@@ -12,12 +12,8 @@ Tools: 💻
  - [Flutter Swipper](https://pub.dev/packages/flutter_swiper)
  - [VSCode](https://code.visualstudio.com/)
 
-**Screenshots**
-**Home**
 ![home](home.png)
-**Details**
 ![details](details.png)
-**Search**
 ![search](search.png)
 
 ## Getting Started
