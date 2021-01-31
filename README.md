@@ -13,11 +13,11 @@ Tools: 💻
  - [VSCode](https://code.visualstudio.com/)
 
 **Screenshots**
-Home
+**Home**
 ![home](home.png)
-Details
+**Details**
 ![details](details.png)
-Search
+**Search**
 ![search](search.png)
 
 ## Getting Started
